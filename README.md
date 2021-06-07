@@ -1,2 +1,2 @@
-# terrariaWebsiteByJohan
-I will make a website where i post terraria stuff
+# Cookie Clicker
+Just a cookie clicker since i forgot to do my yff project
